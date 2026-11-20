@@ -1,0 +1,58 @@
+[
+  {
+    "id_tipo_labor": "TL-001",
+    "nombre": "Romplow",
+    "requiere_tractor": true,
+    "tipo_implemento": "Romplow",
+    "unidad": "ha",
+    "observaciones": null
+  },
+  {
+    "id_tipo_labor": "TL-002",
+    "nombre": "Disco",
+    "requiere_tractor": true,
+    "tipo_implemento": "Rastra de discos",
+    "unidad": "ha",
+    "observaciones": null
+  },
+  {
+    "id_tipo_labor": "TL-003",
+    "nombre": "Siembra",
+    "requiere_tractor": true,
+    "tipo_implemento": "Sembradora",
+    "unidad": "ha",
+    "observaciones": null
+  },
+  {
+    "id_tipo_labor": "TL-004",
+    "nombre": "Fumigación",
+    "requiere_tractor": true,
+    "tipo_implemento": "Fumigadora",
+    "unidad": "ha",
+    "observaciones": "Mosquito autopropulsado no requiere tractor"
+  },
+  {
+    "id_tipo_labor": "TL-005",
+    "nombre": "Chafreo",
+    "requiere_tractor": false,
+    "tipo_implemento": null,
+    "unidad": "ha",
+    "observaciones": "Manual"
+  },
+  {
+    "id_tipo_labor": "TL-006",
+    "nombre": "Desgrosado",
+    "requiere_tractor": true,
+    "tipo_implemento": "Desgrosadora",
+    "unidad": "ha",
+    "observaciones": null
+  },
+  {
+    "id_tipo_labor": "TL-007",
+    "nombre": "Cosecha",
+    "requiere_tractor": false,
+    "tipo_implemento": "Cosechadora",
+    "unidad": "ha",
+    "observaciones": null
+  }
+]

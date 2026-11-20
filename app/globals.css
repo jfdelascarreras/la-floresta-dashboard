@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-outfit), "Outfit", sans-serif;
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --color-paper: #ffffff;
+  --color-ink: #1c1915;
+  --color-forest: #007a33;
+  --color-soja: #1f7a4d;
+  --color-maiz: #b8860b;
+  --color-line: #e4dccf;
+  --color-card: #ffffff;
+  --color-muted: #6d645b;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+h1,
+h2,
+.font-display {
+  font-family: var(--font-display);
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  background: #1c1412;
+  font-family: var(--font-sans);
+  z-index: 0;
+}
+
+.leaflet-container img,
+.leaflet-container svg {
+  max-width: none !important;
+  max-height: none !important;
+}
+
+.leaflet-tooltip.lf-tip {
+  border: 0;
+  border-radius: 12px;
+  background: #1c1915;
+  color: #f6f1e8;
+  box-shadow: 0 10px 30px rgb(28 25 21 / 24%);
+  padding: 10px 12px;
+}
+
+.leaflet-tooltip.lf-tip::before {
+  border-top-color: #1c1915;
+}

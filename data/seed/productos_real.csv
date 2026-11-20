@@ -1,0 +1,38 @@
+ID_Producto,Nombre,Tipo,Principio_activo,Unidad,Cultivo,Observaciones,Activo,Cargado_por,Fecha_carga
+PRD-001,Glifosato,Herbicida,"Glifosato 74,7%",Kg,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-002,2-4D,Herbicida,2-4D 72% SL,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-003,Fluroxipir,Herbicida,Fluroxipir 48% (Starane),Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-004,Diclosulam,Herbicida,Diclosulam 84% (Spider),Kg,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-005,Glufosinato,Herbicida,Glufosinato de amonio 20%,Lts,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-006,Heat,Herbicida,Saflufenacil 70%,Kg,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-007,S-Metolacloro,Herbicida,S-Metolachlor 96%,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-008,Clorimuron,Herbicida,Clorimuron 25%,Kg,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-009,Cletodim,Herbicida,Cletodim 24%,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-010,Paraquat,Herbicida,Paraquat 27%,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-011,Atrazina,Herbicida,Atrazina 50%,Lts,Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-012,Acetoclor,Herbicida,Acetoclor 90%,Lts,Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-013,Convey,Herbicida,"Topramezone 33,6%",Lts,Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-014,Dicamba,Herbicida,"Dicamba 57,7%",Lts,Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-015,Clorpirifos,Insecticida,Clorpirifos 48%,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-016,Benzoato,Insecticida,"Benzoato de emamectina 5,7%",Kg,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-017,Imidacloprid,Insecticida,Imidacloprid 70%,Kg,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-018,Clorantraniliprole,Insecticida,Clorantraniliprole 20%,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-019,Thiametoxam,Insecticida,Thiametoxam 75%,Kg,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-020,Bifentrin,Insecticida,Bifentrin 10%,Lts,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-021,Clorfenapir,Insecticida,Clorfenapir 24%,Lts,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-022,Fipronil,Insecticida,Fipronil 80%,Lts,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-023,Acefato,Insecticida,Acefato,Lts,Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-024,Priaxor,Fungicida,Fluxapyroxad + Pyraclostrobin,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-025,Mancozeb,Fungicida,Mancozeb 80%,Kg,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-026,Orquesta,Fungicida,Pyraclostrobin + Epoxiconazole + Fluxapyroxad,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-027,Carbendazim,Fungicida,Carbendazim 50%,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-028,Fungicida (a definir),Fungicida,,Lts,Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-029,Acronis Top,Curasemilla,Fipronil + Tiofanato + Pyraclostrobin,Lts,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-030,Curasemillas (a definir),Curasemilla,,Lts,Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-031,Semilla Soja 4864,Semilla,,Kg,Soja,,TRUE,dev@example.com,2026-11-10
+PRD-032,Semilla Maíz Menonita,Semilla,,Kg,Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-033,PDA,Fertilizante,Fosfato diamónico,Kg,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-034,Enraizador,Bioestimulante,Grad57Pro,Lts,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-035,Regulador de PH,Coadyuvante,,Lts,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-036,Coadyuvante,Coadyuvante,,Lts,Soja/Maíz,,TRUE,dev@example.com,2026-11-10
+PRD-037,Aceite Assist Top,Coadyuvante,Aceite,Lts,Maíz,,TRUE,dev@example.com,2026-11-10

@@ -1,0 +1,704 @@
+[
+  {
+    "id_lista": "LIS-001",
+    "tipo_lista": "Tipo_labor",
+    "valor": "siembra",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-002",
+    "tipo_lista": "Tipo_labor",
+    "valor": "pulverización",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-003",
+    "tipo_lista": "Tipo_labor",
+    "valor": "fertilización",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-004",
+    "tipo_lista": "Tipo_labor",
+    "valor": "cosecha",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-005",
+    "tipo_lista": "Tipo_labor",
+    "valor": "otra",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-006",
+    "tipo_lista": "Unidad",
+    "valor": "L/ha",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-007",
+    "tipo_lista": "Unidad",
+    "valor": "kg/ha",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-008",
+    "tipo_lista": "Unidad",
+    "valor": "g/ha",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-009",
+    "tipo_lista": "Unidad",
+    "valor": "L",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-010",
+    "tipo_lista": "Unidad",
+    "valor": "kg",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-011",
+    "tipo_lista": "Unidad",
+    "valor": "unidades",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-012",
+    "tipo_lista": "Severidad",
+    "valor": "Baja",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-013",
+    "tipo_lista": "Severidad",
+    "valor": "Media",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-014",
+    "tipo_lista": "Severidad",
+    "valor": "Alta",
+    "activo": true,
+    "observaciones": "Valor de referencia para AppSheet",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-015",
+    "tipo_lista": "Estado_cultivo",
+    "valor": "Excelente",
+    "activo": true,
+    "observaciones": "Escala condición 5 niveles",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-016",
+    "tipo_lista": "Estado_cultivo",
+    "valor": "Buena",
+    "activo": true,
+    "observaciones": "Escala condición 5 niveles",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-017",
+    "tipo_lista": "Estado_cultivo",
+    "valor": "Regular",
+    "activo": true,
+    "observaciones": "Escala condición 5 niveles",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-018",
+    "tipo_lista": "Estado_cultivo",
+    "valor": "Mala",
+    "activo": true,
+    "observaciones": "Escala condición 5 niveles",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-019",
+    "tipo_lista": "Estado_cultivo",
+    "valor": "Muy mala",
+    "activo": true,
+    "observaciones": "Escala condición 5 niveles",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-020",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja VE",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-021",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja VC",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-022",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja V1",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-023",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja V2",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-024",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja V3",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-025",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja V4",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-026",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja V5",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-027",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja V6+",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-028",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja R1",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-029",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja R2",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-030",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja R3",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-031",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja R4",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-032",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja R5",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-033",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja R6",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-034",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja R7",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-035",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Soja R8",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-036",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz VE",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-037",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz V2",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-038",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz V4",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-039",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz V6",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-040",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz V8",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-041",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz V10",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-042",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz V12",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-043",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz VT",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-044",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz R1",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-045",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz R2",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-046",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz R3",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-047",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz R4",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-048",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz R5",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-049",
+    "tipo_lista": "Estado_fenologico",
+    "valor": "Maíz R6",
+    "activo": true,
+    "observaciones": "Escala fenológica de referencia",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-050",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Sin novedad",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-051",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Chinche",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-052",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Oruga bolillera (Helicoverpa)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-053",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Oruga medidora",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-054",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Oruga militar / cogollero (Spodoptera)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-055",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Falsa medidora (Rachiplusia)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-056",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Trips",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-057",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Arañuela",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-058",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Mosca blanca",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-059",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Pulgón",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-060",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Chicharrita (Dalbulus)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-061",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Gusano barrenador (Diatraea)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-062",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Picudo",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-063",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Roya asiática",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-064",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Mancha ojo de rana",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-065",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Mancha marrón (Septoria)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-066",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Tizón de la hoja",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-067",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Antracnosis",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-068",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Mildiu",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-069",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Podredumbre de tallo",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-070",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Roya común (maíz)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-071",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Achaparramiento (Spiroplasma)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-072",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Maleza: Amaranthus (yuyo colorado)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-073",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Maleza: Sorgo de Alepo",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-074",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Maleza: Rama negra (Conyza)",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-075",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Maleza: Pasto / gramíneas",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-076",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Maleza: Malezas de hoja ancha",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-077",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Daño por granizo / clima",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  },
+  {
+    "id_lista": "LIS-078",
+    "tipo_lista": "Plaga_enfermedad",
+    "valor": "Otro",
+    "activo": true,
+    "observaciones": "Referencia monitoreo",
+    "cargado_por": null,
+    "fecha_carga": "2026-11-10T03:00:00.000Z"
+  }
+]
